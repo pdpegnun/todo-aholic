@@ -24,6 +24,8 @@ Tener instalados:
 ---
  
 ## Uso
+-Insertar nuevas tareas desde el cuadro de texto.
+-Una vez realizadas marcar el checklist para borrarlas.
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
 
