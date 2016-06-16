@@ -25,8 +25,8 @@ Tener instalados:
  
 ## Uso
 
--Insertar nuevas tareas desde el cuadro de texto.
--Una vez realizadas marcar el checklist para borrarlas.
+- Insertar nuevas tareas desde el cuadro de texto.
+- Una vez realizadas marcar el checklist para borrarlas.
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
 
@@ -45,5 +45,4 @@ Tener instalados:
 
 El texto completo de la licencia puede ser encontrado en el archivo [**MIT-LICENSE**](MIT-LICENSE.md)
 
-### Versión
-v0.0.2
+### Versión 0.0.2
