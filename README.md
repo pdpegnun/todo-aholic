@@ -24,6 +24,7 @@ Tener instalados:
 ---
  
 ## Uso
+
 -Insertar nuevas tareas desde el cuadro de texto.
 -Una vez realizadas marcar el checklist para borrarlas.
 
