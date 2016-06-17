@@ -1,4 +1,4 @@
 module.exports = {
-    remoteUrl : 'mongodb://localhost/angular-todo',
-    localUrl: 'mongodb://localhost/angular-todo'
+    remoteUrl : 'mongodb://localhost/todo-aholic',
+    localUrl: 'mongodb://localhost/angular-aholic'
 };
