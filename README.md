@@ -1,6 +1,4 @@
-# TODO-AHOLIC #
-
----
+# TODO-AHOLIC 
 
 **TODO-AHOLIC** is a Simple TODO app basada en Angular.js y node.js
 
